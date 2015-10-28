@@ -2,7 +2,7 @@
 ## About
 Rename_images is a Python script for renaming images based on their directory. It is designed to rename images from digital cameras or phones so that their names are more meaningful than the default name given by the camera or phone. 
 
-##** PLEASE NOTE: Rename_images is one of my first scripts written as a beginner programmer and so I apologise if the code is inelegant, unconventional or otherwise sub-optimal; it works for the intended purpose and I provide it in case it might be useful to others, but with no guarantees. **
+** PLEASE NOTE: Rename_images is one of my first scripts written as a beginner programmer and so I apologise if the code is inelegant, unconventional or otherwise sub-optimal; it works for the intended purpose and I provide it in case it might be useful to others, but with no guarantees. **
 
 ## Requirements
 Rename_images requires Python.
